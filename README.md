@@ -6,3 +6,5 @@ web developent roadmap
 ##current progress
 -day 1-learning git and github
 -goal: become comfortabke building bakend applications.
+
+Day 3: Learning remote repositories, git pull and .gitignore.
