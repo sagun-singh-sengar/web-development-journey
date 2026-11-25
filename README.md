@@ -1,10 +1,18 @@
-# web development starting at 22/11/26
+# Web Development Journey starting 22/11/26
 
-starting my 6 month backend-first
-web developent roadmap
+## About
+My six-month journey to learn backend-first web development.
 
-##current progress
--day 1-learning git and github
--goal: become comfortabke building bakend applications.
+## Goal
+Build strong foundations in web development
+and learn to create backend applications.
 
-Day 3: Learning remote repositories, git pull and .gitignore.
+## Learning Progress
+- Day 1: Git and GitHub setup
+- Day 2: Branching and merging
+- Day 3: Remote repositories and .gitignore
+
+## Technologies
+- Git
+- GitHub
+- HTML (upcoming)
