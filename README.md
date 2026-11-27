@@ -1,18 +1,30 @@
-# Web Development Journey starting 22/11/26
+#backend first web-development journey
 
-## About
-My six-month journey to learn backend-first web development.
+##about
+this repository documents my 6-month journey 
+of learning backend-first web development.
 
-## Goal
-Build strong foundations in web development
-and learn to create backend applications.
+##goal 
+to learn backend development and build real-world applications.
 
-## Learning Progress
-- Day 1: Git and GitHub setup
-- Day 2: Branching and merging
-- Day 3: Remote repositories and .gitignore
+##technology stack
+-git and github
+-HTML,CSS , Javascript
+-python
+-FAstAPI
+-PostgreSQL
 
-## Technologies
-- Git
-- GitHub
-- HTML (upcoming)
+##learning progress
+-Day 1: Git setup and first repository
+-Day 2:core git workflow
+-Day 3:Branches and collabration
+-Day 4:.gitignore anf file status
+-Day 5: README and change innspection-learned (git diff)
+-Day 6:Mini Git workflow challenge 
+
+##learning approach 
+-learning concepts
+-Practice using the terminal 
+-Build small projects
+-Maintain GitHub commits
+
