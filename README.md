@@ -19,7 +19,7 @@ to learn backend development and build real-world applications.
 -Day 2:core git workflow
 -Day 3:Branches and collabration
 -Day 4:.gitignore anf file status
--Day 5: README and change innspection-learned (git diff)
+-Day 5: README and change innspection-learned (git diff,git )
 -Day 6:Mini Git workflow challenge 
 
 ##learning approach 
@@ -28,3 +28,4 @@ to learn backend development and build real-world applications.
 -Build small projects
 -Maintain GitHub commits
 
+`
