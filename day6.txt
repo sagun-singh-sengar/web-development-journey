@@ -1,0 +1,8 @@
+## explanation about what i understand in my web-dev-journey till day 6 of first week
+
+till date i have learned git and github 
+
+where on topic i have learned-
+add,push,commit,configuring git,gitignore ,branches and switching deleting branches 
+
+looking forwark to learn more about web-dev
